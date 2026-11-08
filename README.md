@@ -1,7 +1,10 @@
-# Gradium Phonon on Orange Pi 5
+# Gradium Phonon model on Orange Pi 5
 
 Text-to-speech installation, inference runtimes, and audio configuration
-for the Orange Pi 5 single board computer (8GB RAM, aarch64, Ubuntu 24.04).
+for the Orange Pi 5 single board computer (8GB RAM, ARM CPU, aarch64, 
+Ubuntu 24.04).
+
+Coding assistant: Antigravity CLI.
 
 ## Overview
 
