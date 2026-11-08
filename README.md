@@ -57,11 +57,11 @@ Executable scripts are available in the `src/` directory:
 3. Stream a file using a specific voice at a slower pace:
 
    ```bash
-~/venv/phonon/bin/python src/ptts_speak.py \
-  --voice "Toby" \
-  --speed 0.8 \
-  --stream samples/a_tale_of_two_cities.txt
-    ```
+   ~/venv/phonon/bin/python src/ptts_speak.py \
+     --voice "Toby" \
+     --speed 0.8 \
+     --stream samples/a_tale_of_two_cities.txt
+   ```
 
 ## Development
 
